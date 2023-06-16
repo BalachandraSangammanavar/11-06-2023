@@ -56,3 +56,5 @@ Date:   Fri Jun 16 07:18:31 2023 +0530
 Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
 $ git restore --staged Text.txt
 
+--> Editing on Remote
+
