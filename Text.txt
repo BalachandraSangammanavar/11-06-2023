@@ -1,14 +1,58 @@
-To view the list of all files enter "dir"
+--> To view the list of all files enter "dir"
 
 Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/JavaScript - VS Code/Learning
 $ dir
 
-To view the permission for the files enter "dir -al"
+--> To view the permission for the files enter "dir -al"
 
 Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/JavaScript - VS Code/Learning
 $ dir -al
 
-To view the status of the files enter "git status"
+--> To view the status of the files enter "git status"
 
 Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
 $ git status
+
+--> To add files to git enter "git add <file name>
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git add Text.txt
+
+--> To remove files from git enter "git rm --cached <file name>
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git rm --cached Text.txt
+
+--> To add all the files to git enter "git add ."
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git add .
+
+--> To remove files from git enter "git rm --cached ."
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git rm --cached .
+or Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git rm r .
+
+--> To commit all the files enter "git commit -m "message"
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git commit -m " all files are added"
+
+--> git log will give all things at a time and generates a time based id
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git log
+commit 0ef0c34e6dca6ad218042538e03fa6a42acc8ea0 (HEAD -> main)
+Author: Balubss <balachandrabss@gmail.com>
+Date:   Fri Jun 16 07:18:31 2023 +0530
+
+     all files are added
+(all thing we call as one single commit or one single version)
+
+-->To restore the files enter git restore --staged Text.txt
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git restore --staged Text.txt
+
