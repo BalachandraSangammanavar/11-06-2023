@@ -57,4 +57,5 @@ Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (ma
 $ git restore --staged Text.txt
 
 --> Editing on Remote
+--> Doing change from local laptop
 
