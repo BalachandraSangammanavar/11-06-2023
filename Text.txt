@@ -1,0 +1,14 @@
+To view the list of all files enter "dir"
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/JavaScript - VS Code/Learning
+$ dir
+
+To view the permission for the files enter "dir -al"
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/JavaScript - VS Code/Learning
+$ dir -al
+
+To view the status of the files enter "git status"
+
+Balachandra@LAPTOP-STV1MQJJ MINGW64 ~/OneDrive/Desktop/Guvi class/11-06-2023 (main)
+$ git status
